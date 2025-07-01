@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Youtube-MLOps-Series/MLOps-experiments-with-MLFlow/mlruns/925669516095952777/27834317d4dc4bbe9bcc680537b6c0fa/artifacts
+end_time: 1751344168958
+entry_point_name: ''
+experiment_id: '925669516095952777'
+lifecycle_stage: active
+run_id: 27834317d4dc4bbe9bcc680537b6c0fa
+run_name: abundant-pig-622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751344168829
+status: 3
+tags: []
+user_id: srika

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Youtube-MLOps-Series/MLOps-experiments-with-MLFlow/mlruns/925669516095952777/686bf87a174d42a2b1d767fca710d358/artifacts
+end_time: 1751344167945
+entry_point_name: ''
+experiment_id: '925669516095952777'
+lifecycle_stage: active
+run_id: 686bf87a174d42a2b1d767fca710d358
+run_name: nervous-duck-575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751344167838
+status: 3
+tags: []
+user_id: srika

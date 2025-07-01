@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Youtube-MLOps-Series/MLOps-experiments-with-MLFlow/mlruns/925669516095952777/36abcaa0426e48d0b8ece3d208b4e1e6/artifacts
+end_time: 1751344168447
+entry_point_name: ''
+experiment_id: '925669516095952777'
+lifecycle_stage: active
+run_id: 36abcaa0426e48d0b8ece3d208b4e1e6
+run_name: loud-mouse-399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751344168333
+status: 3
+tags: []
+user_id: srika

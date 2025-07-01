@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Youtube-MLOps-Series/MLOps-experiments-with-MLFlow/mlruns/925669516095952777/e998d94e1c3b4129911c790b24b17145/artifacts
+end_time: 1751344168571
+entry_point_name: ''
+experiment_id: '925669516095952777'
+lifecycle_stage: active
+run_id: e998d94e1c3b4129911c790b24b17145
+run_name: capricious-horse-273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751344168461
+status: 3
+tags: []
+user_id: srika

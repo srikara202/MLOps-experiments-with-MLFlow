@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Youtube-MLOps-Series/MLOps-experiments-with-MLFlow/mlruns/925669516095952777/539236efea8a4d879b54902b9b6491f1/artifacts
+end_time: 1751344167696
+entry_point_name: ''
+experiment_id: '925669516095952777'
+lifecycle_stage: active
+run_id: 539236efea8a4d879b54902b9b6491f1
+run_name: intelligent-yak-737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751344167580
+status: 3
+tags: []
+user_id: srika

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Youtube-MLOps-Series/MLOps-experiments-with-MLFlow/mlruns/925669516095952777/ebbf65d686364651a5cbf311adc984d5/artifacts
+end_time: 1751344168189
+entry_point_name: ''
+experiment_id: '925669516095952777'
+lifecycle_stage: active
+run_id: ebbf65d686364651a5cbf311adc984d5
+run_name: upbeat-hawk-215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751344168084
+status: 3
+tags: []
+user_id: srika

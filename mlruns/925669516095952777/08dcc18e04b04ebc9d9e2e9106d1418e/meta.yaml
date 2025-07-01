@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Youtube-MLOps-Series/MLOps-experiments-with-MLFlow/mlruns/925669516095952777/08dcc18e04b04ebc9d9e2e9106d1418e/artifacts
+end_time: 1751344185327
+entry_point_name: ''
+experiment_id: '925669516095952777'
+lifecycle_stage: active
+run_id: 08dcc18e04b04ebc9d9e2e9106d1418e
+run_name: skittish-stoat-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751344155095
+status: 3
+tags: []
+user_id: srika

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Youtube-MLOps-Series/MLOps-experiments-with-MLFlow/mlruns/925669516095952777/8277ec72ab3845b08de0fd661621eb4e/artifacts
+end_time: 1751344168068
+entry_point_name: ''
+experiment_id: '925669516095952777'
+lifecycle_stage: active
+run_id: 8277ec72ab3845b08de0fd661621eb4e
+run_name: ambitious-pig-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751344167958
+status: 3
+tags: []
+user_id: srika

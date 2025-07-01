@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Youtube-MLOps-Series/MLOps-experiments-with-MLFlow/mlruns/925669516095952777/1442af4009ef48fba466b67a1bea2766/artifacts
+end_time: 1751344168319
+entry_point_name: ''
+experiment_id: '925669516095952777'
+lifecycle_stage: active
+run_id: 1442af4009ef48fba466b67a1bea2766
+run_name: nimble-turtle-123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751344168204
+status: 3
+tags: []
+user_id: srika

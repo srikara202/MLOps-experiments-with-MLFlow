@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Youtube-MLOps-Series/MLOps-experiments-with-MLFlow/mlruns/925669516095952777/b846a8cd993343fcb84d6aa30d48e266/artifacts
+end_time: 1751342929986
+entry_point_name: ''
+experiment_id: '925669516095952777'
+lifecycle_stage: active
+run_id: b846a8cd993343fcb84d6aa30d48e266
+run_name: burly-fowl-892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751342911673
+status: 3
+tags: []
+user_id: srika
