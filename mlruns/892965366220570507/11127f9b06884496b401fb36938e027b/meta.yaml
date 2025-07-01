@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/892965366220570507/11127f9b06884496b401fb36938e027b/artifacts
+end_time: 1751295485158
+entry_point_name: ''
+experiment_id: '892965366220570507'
+lifecycle_stage: active
+run_id: 11127f9b06884496b401fb36938e027b
+run_name: rogue-robin-600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751295477881
+status: 3
+tags: []
+user_id: srika

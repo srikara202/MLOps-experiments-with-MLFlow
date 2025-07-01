@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/892965366220570507/efc108831ffb4bc3ad03e3f7fa614f83/artifacts
+end_time: 1751340525118
+entry_point_name: ''
+experiment_id: '892965366220570507'
+lifecycle_stage: active
+run_id: efc108831ffb4bc3ad03e3f7fa614f83
+run_name: indecisive-goat-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751340513798
+status: 3
+tags: []
+user_id: srika

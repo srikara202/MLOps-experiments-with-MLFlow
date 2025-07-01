@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/892965366220570507/ca849aea9ea34cd6a3d7689827f55937/artifacts
+end_time: 1751292854484
+entry_point_name: ''
+experiment_id: '892965366220570507'
+lifecycle_stage: active
+run_id: ca849aea9ea34cd6a3d7689827f55937
+run_name: salty-pug-113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751292853868
+status: 3
+tags: []
+user_id: srika

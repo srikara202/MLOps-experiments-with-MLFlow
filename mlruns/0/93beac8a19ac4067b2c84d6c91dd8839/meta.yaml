@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/93beac8a19ac4067b2c84d6c91dd8839/artifacts
+end_time: 1751287671636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93beac8a19ac4067b2c84d6c91dd8839
+run_name: big-crow-110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751287668843
+status: 3
+tags: []
+user_id: srika

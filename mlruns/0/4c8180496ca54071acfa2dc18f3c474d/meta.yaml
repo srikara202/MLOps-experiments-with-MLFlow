@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4c8180496ca54071acfa2dc18f3c474d/artifacts
+end_time: 1751292652462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c8180496ca54071acfa2dc18f3c474d
+run_name: welcoming-worm-358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751292649745
+status: 3
+tags: []
+user_id: srika

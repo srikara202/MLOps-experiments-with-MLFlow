@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/892965366220570507/fbc988559ffc4d5c8105d70f65793e60/artifacts
+end_time: 1751295549549
+entry_point_name: ''
+experiment_id: '892965366220570507'
+lifecycle_stage: active
+run_id: fbc988559ffc4d5c8105d70f65793e60
+run_name: resilient-foal-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751295542011
+status: 3
+tags: []
+user_id: srika

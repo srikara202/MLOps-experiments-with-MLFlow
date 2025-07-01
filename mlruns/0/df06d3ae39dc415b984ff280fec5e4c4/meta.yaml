@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/df06d3ae39dc415b984ff280fec5e4c4/artifacts
+end_time: 1751286128542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df06d3ae39dc415b984ff280fec5e4c4
+run_name: valuable-crab-189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751286128452
+status: 3
+tags: []
+user_id: srika

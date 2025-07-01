@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/892965366220570507/00090628e68c4f438ac72ab3b1453a5d/artifacts
+end_time: 1751295095386
+entry_point_name: ''
+experiment_id: '892965366220570507'
+lifecycle_stage: active
+run_id: 00090628e68c4f438ac72ab3b1453a5d
+run_name: caring-sow-428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751295084818
+status: 3
+tags: []
+user_id: srika
